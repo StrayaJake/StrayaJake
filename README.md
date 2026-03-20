@@ -29,32 +29,43 @@
   design, bridging technical systems with engaging player experiences.
 </p>
 
----
-# Stack
+<p align="center">
+  <img src="./assets/section-tech-stack.svg" alt="Tech Stack" width="100%" />
+</p>
 
-**Game Development**
+<p align="center"><strong>Game Development</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=godot,unreal,unity,blender&theme=dark" alt="Game Development" height="64"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=godot,unreal,unity,blender&theme=dark" alt="Game Development" height="64"/>
+<p align="center"><strong>Languages</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,css,godot,cs,cpp&theme=dark" alt="Languages" height="64"/>
+</p>
 
-**Languages**
+<p align="center"><strong>Frontend</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,vue&theme=dark" alt="Frontend" height="64"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,css,godot,cs,cpp&theme=dark" alt="Languages" height="64"/>
+<p align="center"><strong>Backend &amp; Databases</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql&theme=dark" alt="Backend & Databases" height="64"/>
+</p>
 
-**Frontend**
+<p align="center"><strong>DevOps &amp; Cloud</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,linux,vscode,terraform,githubactions&theme=dark" alt="DevOps & Cloud" height="64"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=nextjs,vue&theme=dark" alt="Frontend" height="64"/>
+<p align="center">
+  <img src="./assets/section-activity.svg" alt="Activity" width="100%" />
+</p>
 
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=nodejs,mysql&theme=dark" alt="Backend & Databases" height="64"/>
-
-**DevOps & Cloud**
-
-<img src="https://skillicons.dev/icons?i=docker,aws,git,linux,vscode,terraform,githubactions&theme=dark" alt="DevOps & Cloud" height="64"/>
-
----
-# Activity
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=StrayaJake&bg_color=2C2C2C&color=dbe4ee&title_color=ffffff&line=FB923C&point=6FAFC0&area=true&area_color=FDBA74&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=StrayaJake&bg_color=2C2C2C&color=dbe4ee&title_color=ffffff&line=FB923C&point=6FAFC0&area=true&area_color=FDBA74&hide_border=true" alt="Activity Graph" />
+  </a>
+</p>
 
 ---
