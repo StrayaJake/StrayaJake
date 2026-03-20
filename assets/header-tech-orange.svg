@@ -1,50 +1,55 @@
 <svg width="1600" height="420" viewBox="0 0 1600 420" xmlns="http://www.w3.org/2000/svg" fill="none">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#161B2A"/>
-      <stop offset="1" stop-color="#1D2233"/>
+      <stop stop-color="#242424"/>
+      <stop offset="1" stop-color="#242424"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" y1="228" x2="0" y2="332" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FB923C"/>
+      <stop offset="1" stop-color="#FDBA74"/>
     </linearGradient>
   </defs>
 
-  <!-- Main dark banner -->
+  <!-- Main darker banner -->
   <path
-    d="M0 0H1600V165C1460 235 1230 285 800 285C370 285 140 235 0 165V0Z"
+    d="M0 0H1600V175C1460 235 1230 278 800 278C370 278 140 235 0 175V0Z"
     fill="url(#bg)"
   />
 
-  <!-- Inner darker curved layer -->
+  <!-- Smaller dark transition area above orange -->
   <path
-    d="M0 120C170 210 430 255 800 255C1170 255 1430 210 1600 120V205C1460 255 1230 305 800 305C370 305 140 255 0 205V120Z"
-    fill="#0E1320"
-    fill-opacity="0.9"
+    d="M0 182C170 228 430 258 800 258C1170 258 1430 228 1600 182V228C1460 252 1230 276 800 276C370 276 140 252 0 228V182Z"
+    fill="#1A1A1A"
+    fill-opacity="0.96"
   />
 
   <!-- Orange accent band -->
   <path
-    d="M0 205C170 250 430 292 800 292C1170 292 1430 250 1600 205V262C1430 300 1170 340 800 340C430 340 170 300 0 262V205Z"
-    fill="#F97316"
+    d="M0 228C170 258 430 286 800 286C1170 286 1430 258 1600 228V272C1430 300 1170 332 800 332C430 332 170 300 0 272V228Z"
+    fill="url(#accent)"
   />
 
   <!-- Centered text -->
   <text
     x="800"
-    y="145"
+    y="142"
     text-anchor="middle"
     font-family="Arial, Helvetica, sans-serif"
     font-size="60"
     font-weight="800"
-    fill="#ffffff">
+    fill="#FFFFFF">
     Jake Gaske
   </text>
 
   <text
     x="800"
-    y="198"
+    y="194"
     text-anchor="middle"
     font-family="Arial, Helvetica, sans-serif"
     font-size="28"
     font-weight="500"
-    fill="#dbe4ee">
+    fill="#DBE4EE">
     Game Developer
   </text>
 </svg>

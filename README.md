@@ -16,7 +16,6 @@
   </a>
 </p>
 
-
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Perth%2C%20Australia-334155?style=for-the-badge&labelColor=111827" alt="Location Perth, Australia" />
   <img src="https://img.shields.io/badge/Building-Ruinborne-7C3AED?style=for-the-badge&labelColor=111827" alt="Building Ruinborne" />
@@ -30,14 +29,12 @@
   design, bridging technical systems with engaging player experiences.
 </p>
 
-
 ---
 # Stack
 
 **Game Development**
 
 <img src="https://skillicons.dev/icons?i=godot,unreal,unity,blender&theme=dark" alt="Game Development" height="64"/>
-
 
 **Languages**
 
@@ -55,10 +52,9 @@
 
 <img src="https://skillicons.dev/icons?i=docker,aws,git,linux,vscode,terraform,githubactions&theme=dark" alt="DevOps & Cloud" height="64"/>
 
-
 ---
 # Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=StrayaJake&theme=github&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=StrayaJake&bg_color=2C2C2C&color=dbe4ee&title_color=ffffff&line=FB923C&point=6FAFC0&area=true&area_color=FDBA74&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
