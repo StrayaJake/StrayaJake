@@ -1,0 +1,50 @@
+<svg width="1600" height="420" viewBox="0 0 1600 420" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#161B2A"/>
+      <stop offset="1" stop-color="#1D2233"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Main dark banner -->
+  <path
+    d="M0 0H1600V165C1460 235 1230 285 800 285C370 285 140 235 0 165V0Z"
+    fill="url(#bg)"
+  />
+
+  <!-- Inner darker curved layer -->
+  <path
+    d="M0 120C170 210 430 255 800 255C1170 255 1430 210 1600 120V205C1460 255 1230 305 800 305C370 305 140 255 0 205V120Z"
+    fill="#0E1320"
+    fill-opacity="0.9"
+  />
+
+  <!-- Orange accent band -->
+  <path
+    d="M0 205C170 250 430 292 800 292C1170 292 1430 250 1600 205V262C1430 300 1170 340 800 340C430 340 170 300 0 262V205Z"
+    fill="#F97316"
+  />
+
+  <!-- Centered text -->
+  <text
+    x="800"
+    y="145"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="60"
+    font-weight="800"
+    fill="#ffffff">
+    Jake Gaske
+  </text>
+
+  <text
+    x="800"
+    y="198"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="28"
+    font-weight="500"
+    fill="#dbe4ee">
+    Game Developer
+  </text>
+</svg>
